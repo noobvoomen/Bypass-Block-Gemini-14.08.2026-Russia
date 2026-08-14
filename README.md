@@ -1,2 +1,1 @@
-# Bypass-Block-Gemini-14.08.2026-Russia
-Bypass-Block-Gemini-14.08.2026-Russia
+заходите на https://xbox-dns.ru/ и подключаете его,заходите без впн в Gemini и у вас все заработает
